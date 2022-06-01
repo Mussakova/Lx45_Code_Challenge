@@ -1,0 +1,20 @@
+{
+  "name": "code_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mussakova/Lx45_Code_Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mussakova/Lx45_Code_Challenge/issues"
+  },
+  "homepage": "https://github.com/Mussakova/Lx45_Code_Challenge#readme"
+}
